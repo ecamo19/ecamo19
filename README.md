@@ -1,4 +1,4 @@
-## Hi there 👋, Pura Vida? 🇨🇷 
+## Hey 👋, Pura Vida? 🇨🇷 
 
 
 - 🔭 I’m currently working on developing a module for the Predictive Ecosystem Analyzer [PEcAn](https://pecanproject.github.io/)
